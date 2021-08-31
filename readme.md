@@ -5,9 +5,9 @@ También se agregan herramientas de extracción para generar estos Geojson desde
 
 Se creo Geojson de Chile con limites de comunas y regiones desde:
 
-	```
+	
 	https://www.bcn.cl/obtienearchivo?id=repositorio/10221/10398/2/Regiones.zip *
-	```
+	
 
 *Se modificaron puntos de limite de las siguientes regiones:
 	
@@ -25,10 +25,10 @@ Ejemplo: Arica
 | codigo_provincia | 151  |
 | codigo_region | 00015  |
 
-
+![screenshot](https://user-images.githubusercontent.com/75143749/131441310-663556eb-ef47-47bb-a3e1-9fd3283c1d72.png)
 
 # Paises Disponibles
 	
-	```
 	Chile (https://www.bcn.cl/obtienearchivo?id=repositorio/10221/10398/2/Regiones.zip)
-	```
+
+	
